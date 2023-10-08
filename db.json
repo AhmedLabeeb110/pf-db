@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "image one",
-      "image": "/alpine-portfolio/images/more/1.jpeg" 
+      "image": "./images/more/1.jpeg" 
     },
     {
       "id": 2,
